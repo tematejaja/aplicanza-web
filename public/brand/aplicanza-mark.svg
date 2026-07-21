@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="title desc">
+  <title id="title">Aplicanza</title>
+  <desc id="desc">Una letra A atravesada por una flecha que representa implementación y avance.</desc>
+  <path fill="#0B1F3A" d="M9 67 33.1 14.8a7.5 7.5 0 0 1 13.7 0L71 67H56.8L40 29.7 23.2 67H9Z"/>
+  <path fill="#138A8A" d="M20 47h25v-8l17 13-17 13v-8H20V47Z"/>
+  <circle cx="20" cy="52" r="4" fill="#2474E5"/>
+</svg>
