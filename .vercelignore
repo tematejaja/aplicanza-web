@@ -1,0 +1,25 @@
+# Local dependencies and generated builds are installed or created by Vercel.
+node_modules/
+.next/
+out/
+coverage/
+playwright-report/
+test-results/
+
+# Local credentials, Vercel link metadata, Git metadata, and backups.
+.env*
+.vercel/
+.git/
+.git-invalid-backup-*/
+
+# Local-only working material not required to build the website.
+.agents/
+.codex/
+animation-plans/
+assets/
+entregables/
+release/
+tmp/
+AUDITORIA_ESTRATEGICA_WEB_APLICANZA.md
+*.log
+*.tsbuildinfo

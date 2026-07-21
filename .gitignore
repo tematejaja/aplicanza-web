@@ -18,3 +18,5 @@ release/
 tmp/
 AUDITORIA_ESTRATEGICA_WEB_APLICANZA.md
 *.tsbuildinfo
+
+.vercel
